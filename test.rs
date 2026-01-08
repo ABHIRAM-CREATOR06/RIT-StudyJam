@@ -3,4 +3,5 @@ fn main() {
     println!("test file ");
     print!("hi");
     println!("!");
+    println!("");
 }
